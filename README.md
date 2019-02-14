@@ -1,6 +1,7 @@
 Installing Jenkins directly in VM:
 
 Installing jdk:
+https://docs.oracle.com/javase/8/docs/technotes/guides/install/linux_jdk.html
 check if wget is present, if not install it with
 ```sudo yum install wget```
 
